@@ -27,6 +27,12 @@ con una aplicación web en Django y una aplicación móvil.
 - [Repositorio web](https://github.com/DavnicG/the-pack-barberia)
 - [Repositorio móvil](https://github.com/DavnicG/the-pack-barberia-App)
 
+### Orbe CRUD — Gestión de artículos tecnológicos
+
+Aplicación CRUD para gestionar artículos tecnológicos.
+
+- [Repositorio](https://github.com/DavnicG/orbe-crud)
+
 ## Aprendizaje actual
 
 Estoy siguiendo una ruta de formación en Oracle MyLearn orientada
