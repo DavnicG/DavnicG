@@ -1,7 +1,7 @@
 # Hola, soy David Nicolas Garcia Ramirez
 
-Desarrollador Full Stack Jr tecnologo en analisis y desarrollo de software, con experiencia práctica
-en aplicaciones web y móviles.
+Desarrollador Full Stack Jr. en etapa de prácticas del Tecnólogo en Análisis y Desarrollo de Software del SENA,
+con experiencia práctica en aplicaciones web y móviles.
 
 Me interesa construir soluciones que conecten interfaces, APIs y bases de datos
 para resolver necesidades reales. Actualmente desarrollo proyectos con Django,
